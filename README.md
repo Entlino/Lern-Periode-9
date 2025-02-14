@@ -4,3 +4,6 @@ Grob-Planung Aktuell stehe ich mit meinen Noten immer noch etwa gleich wie in de
 
 LP8: DesktopApp mit Python und API Anbindungen an verschiede Finanzdaten.
 LP9: Noch unklar
+
+## 14.02.2025
+Heute habe ich hauptsächlich an meinem bestehedenen Programm gearbeit da konnte ich nach einer kurzen Fehlerbehebung das ganze abschliessen. Danach habe ich mir gedanken gemacht was ich als neues Projekt realisieren könnte, hatte einzelgespräch, und hab Mathieu geholfen seine Python probleme zu beheben.
