@@ -7,3 +7,6 @@ LP9: Noch unklar
 
 ## 14.02.2025
 Heute habe ich hauptsächlich an meinem bestehedenen Programm gearbeit da konnte ich nach einer kurzen Fehlerbehebung das ganze abschliessen. Danach habe ich mir gedanken gemacht was ich als neues Projekt realisieren könnte, hatte einzelgespräch, und hab Mathieu geholfen seine Python probleme zu beheben.
+
+## 21.02.2025
+Heute habe ich damit begonnen mir ein neues Projekt zu überlegen und habe mich schlussendlich für ein kleiner Spielehub entschieden bei welchem man einfache spiele wie snake oder tetris und sogar ein simples Tower Defense spielen kann.
